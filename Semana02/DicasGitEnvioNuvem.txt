@@ -1,0 +1,16 @@
+Passo a passo para envio no repositório git
+
+1) Primeiramente digite,
+   git status
+   este comando mostrará as modificações feitas por você localmente.
+
+2) Uma vez feitas as modificações, digitar 
+   git add .
+   feito isso ele adiciona todas as modificações feitas até então.
+
+3) Em seguida digitar,
+   git commit -m "Aqui você digita as modificações realizadas".
+
+4) Nesse último passo digite,
+   git push
+   Agora as modificações já devem ser visualizadas no repositório.
