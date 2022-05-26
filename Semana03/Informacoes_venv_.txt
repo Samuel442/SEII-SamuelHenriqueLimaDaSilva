@@ -1,0 +1,3 @@
+O diretório virtual oculto é:
+
+.venvTestt
